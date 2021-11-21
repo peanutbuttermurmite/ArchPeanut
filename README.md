@@ -1,4 +1,4 @@
-# ArchTitus Installer Script
+# ArchPeanut Installer Script
 
 <img src="https://i.imgur.com/YiNMnan.png" />
 
